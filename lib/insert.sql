@@ -1,1 +1,1 @@
-INSERT bears (name, age, alive) VALUES ('Mr. Chocolate', 1, 1)
+INSERT INTO bears (name, age, alive) VALUES ('Mr. Chocolate', 1, 1)
